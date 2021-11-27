@@ -1,9 +1,9 @@
 
 .tower-group-1 {
     display: flex;
-    justify-content: center;  ;
+    align-items: flex-end;  ;
     }
     .tower-group-2 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     }
